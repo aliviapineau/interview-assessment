@@ -1,0 +1,7 @@
+*.docx
+*.pptx
+*.md
+~$*
+assets/New Conversation.url
+.DS_Store
+Thumbs.db
